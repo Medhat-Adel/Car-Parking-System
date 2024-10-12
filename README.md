@@ -1,4 +1,4 @@
-![Uploading Car Parking System - Proteus 8 Professional - Schematic Capture 10_12_2024 10_34_10 PM.png…]()
+![Car Parking System - Proteus 8 Professional - Schematic Capture 10_12_2024 10_34_10 PM](https://github.com/user-attachments/assets/53fc7812-7f09-4467-9e4d-be25a6593b02)
 
 
 # Car Parking Sensor Using ATmega32, Ultrasonic Sensor, LCD Display, LEDs, and Buzzer
